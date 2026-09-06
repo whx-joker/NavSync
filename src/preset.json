@@ -116,7 +116,7 @@
       "groupList": [
         {
           "id": 1788694616905,
-          "name": "蓝奏云",
+          "name": "",
           "siteList": [
             {
               "id": 1788694616906,
@@ -124,39 +124,21 @@
               "url": "https://www.lanzoui.com/",
               "favicon": "",
               "bgColor": "#4caf50"
-            }
-          ]
-        },
-        {
-          "id": 1788694617034,
-          "name": "123云盘",
-          "siteList": [
+            },
             {
               "id": 1788694617035,
               "name": "123云盘",
               "url": "https://www.123pan.com/",
               "favicon": "",
               "bgColor": "#ff9800"
-            }
-          ]
-        },
-        {
-          "id": 1788694618125,
-          "name": "夸克云盘",
-          "siteList": [
+            },
             {
               "id": 1788694618126,
               "name": "夸克云盘",
               "url": "https://pan.quark.cn/",
               "favicon": "",
               "bgColor": "#007aff"
-            }
-          ]
-        },
-        {
-          "id": 1788694618223,
-          "name": "百度网盘",
-          "siteList": [
+            },
             {
               "id": 1788694618224,
               "name": "百度网盘",
